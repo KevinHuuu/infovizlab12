@@ -20,7 +20,7 @@ In order to embed your Tableau dashboard to the sites, you will first have to pu
 
 <h2>Images (Infographic in this case) </h2>
 If you'd like to put simple images, you can upload the image file to your repository and use img html tag and put the source. 
-<img src="Chung_infographic.png">
+<img src="lang2code.png">
 
 <h2>D3</h2>
 Same process as Vega-Lite using embedding from Observable notebook. 
