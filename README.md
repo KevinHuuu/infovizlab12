@@ -24,8 +24,8 @@ If you'd like to put simple images, you can upload the image file to your reposi
 
 <h2>D3</h2>
 Same process as Vega-Lite using embedding from Observable notebook. 
-  <iframe width="100%" height="184" frameborder="0"
-  src="https://observablehq.com/embed/@chunggrace/lab-12-d3-practice-3-interactivity?cells=singleVote"></iframe>
+<iframe width="100%" height="384" frameborder="0"
+  src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/7?cells=vJustNodesAndLabels"></iframe>
 
 <h2>Helpful Resources</h2>
   - <a href="https://guides.github.com/features/mastering-markdown/">Mastering Markdown</a>
